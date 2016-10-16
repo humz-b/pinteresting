@@ -4,4 +4,4 @@ This is a sample application for
 [*One Month Rails*](https://onemonthrails.com)
 
 
-By [*Founder*](www.getvape.co.uk)
+By Founder of [*GetVape*](www.getvape.co.uk)
